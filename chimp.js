@@ -11,6 +11,7 @@ client.ayarlar = {
 }
 
 
+
 /*
 
 Bu altyapı can ♡ b#1010(Gökhan Can Bulut) tarafından discord.gg/codare için yapılmıştır.
