@@ -1,31 +1,31 @@
 {
   "name": "hello-express",
   "version": "1.0.0",
-  "description": "chimp#0110'in namı değer temiz altyapısı.",
-  "main": "chimp.js",
+  "description": "etherz#0110'in namı değer temiz altyapısı.",
+  "main": "etherz.js",
   "scripts": {
-    "watch": "nodemon chimp.js",
-    "start": "node chimp.js"
+    "watch": "nodemon etherz.js",
+    "start": "node etherz.js"
   },
   "dependencies": {
-    "canvacord": "^5.0.7",
+    "canvacord": "^5.1.0",
     "dabi-images": "^2.7.5",
     "dctr-antispam.js": "^0.1.1",
-    "discord-logs": "^1.7.7",
-    "discord.js": "^12.3.1",
-    "fs": "0.0.1-security",
+    "discord-logs": "^1.9.0",
+    "discord.js": "^12.5.2",
+    "fs": "^0.0.2",
     "funny-words": "^0.1.2",
-    "mathjs": "^7.5.1",
+    "mathjs": "^9.3.2",
     "moment": "^2.29.1",
-    "nsfwjs": "^2.2.0"
+    "nsfwjs": "^2.4.0"
   },
   "engines": {
     "node": "12.x"
   },
   "license": "MIT",
   "keywords": [
-    "chimp",
-    "chimp#0110"
+    "etherz",
+    "etherz#0110"
   ],
   "devDependencies": {
     "nodemon": "^2.0.4"
