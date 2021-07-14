@@ -14,7 +14,7 @@ client.ayarlar = {
 
 /*
 
-Bu altyapı can ♡ b#1010(Gökhan Can Bulut) tarafından discord.gg/codare için yapılmıştır.
+Bu altyapı can ♡ b#1010(Gökhan Can Bulut) tarafından yapılmıştır.
 Bot MIT license(lisansı silmek yasa dışıdır)'i ile paylaşılmıştır. Herhangi bir izinsiz paylaşma durumunda haklarımız devreye girmektedir.
 İstediğiniz gibi kullanabilirsiniz. Herhangi bir komut yaptırmak isteyen kullanıcılar http://chimp.wtf sitesini ziyaret edebilir.
 Altyapı "CloudUP" isimli Discord botundan örnek alınarak yapılmıştır.
